@@ -1,1 +1,3 @@
-Um projeto Flutter para utilização do plugin de camera 
+Flutter project using camera plugin 
+
+
